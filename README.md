@@ -1,2 +1,2 @@
 # MySql-Project
-Analysis of a sales data
+Analysis of a company sales database
