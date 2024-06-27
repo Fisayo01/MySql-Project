@@ -2,9 +2,9 @@
 This repository contains a detailed analysis of restaurant performance metrics based on various criteria.
 
 ### The data used in this analysis includes:
--customers rating
--order mamounts 
--Delivery times.
+- customers rating
+- order mamounts 
+- Delivery times.
 
 ## The key analysis performed are:
 
