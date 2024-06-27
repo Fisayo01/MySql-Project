@@ -88,7 +88,7 @@ add constraint Fk_restaurant_id foreign key (restaurant_id) references restauran
     order by Avg_delivery_rating desc;
     
     -- Total order amount for each restaurant in descending order of order_amount
-	select restaurant_name, sum(order_amount) as total_order_amount
+    select restaurant_name, sum(order_amount) as total_order_amount
     from restaurant
     inner join orders_info on orders_info.restaurant_id=restaurant.restaurant_id
     group by restaurant_name order by total_order_amount desc;
@@ -105,5 +105,5 @@ add constraint Fk_restaurant_id foreign key (restaurant_id) references restauran
     inner join restaurant on orders_info.restaurant_ID= Restaurant.restaurant_ID inner join cuisine_details on restaurant.cuisine_ID=cuisine_details.cuisine_ID
     where cuisine in ("Chinese","Continental")
     group by cuisine
-	order by Avg_food_rating desc;
+    order by Avg_food_rating desc;
     
