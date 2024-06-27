@@ -6,7 +6,7 @@ This repository contains a detailed analysis of restaurant performance metrics b
 - order mamounts 
 - Delivery times.
 
-## The key analysis performed are:
+### The key analysis performed are:
 
 1.Top-Rated Restaurants based on food which is aranking of the restaurant that received the highest ratings from customers for their food quality.
 
