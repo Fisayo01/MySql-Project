@@ -1,0 +1,4 @@
+PaymentMode_ID,PaymentMode
+1,Debit Card
+2,Credit Card
+3,Cash on Delivery
