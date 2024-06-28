@@ -1,9 +1,9 @@
 # Data Analysis of restaurant Performance.
-This repository contains a detailed analysis of restaurant performance metrics based on various criteria.
+This repository contains a detailed analysis of restaurant performance metrics based on various criteria using MySql.
 
 ### The data used in this analysis includes:
 - customers rating
-- order mamounts 
+- order amounts 
 - Delivery times.
 
 ### The key analysis performed are:
